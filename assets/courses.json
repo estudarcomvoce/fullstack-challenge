@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Física II",
+    "description": "Curso remasterizado e criado inteiramente baseado na sua graduação da POLI USP. Provas passadas resolvidas, teoria explicadinha e muitos exercícios extra. Aproveite!"
+  },
+  {
+    "name": "Cálculo I",
+    "description": "Bem-vindos a este curso de Cálculo 1, formulado especialmente para você, aluno da Poli USP! Aqui, você aprenderá tudo o que precisa e ainda encontrará dicas extraordinárias pra arrasar nas provas!  Embarque nessa viagem e bons estudos :)"
+  },
+  {
+    "name": "Probabilidade",
+    "description": "Probabilidade, a matéria que pode dar um sustinho às vezes. Mas relaxa!!! Pula no Estudarboat aqui pra entender as maravilhas dessa matéria e se preparar da melhor forma possível pra destruir nas provinhas."
+  },
+  {
+    "name": "Cálculo IV",
+    "description": ""
+  },
+  {
+    "name": "Mecânica I",
+    "description": "Curso completo Mecânica com todos os conceitos. Aqui você encontra tudo o que precisa pra mandar bem, como vídeo aulas, listas de exercício, exercícios resolvidos e provas resolvidas!"
+  },
+  {
+    "name": "Física IV",
+    "description": "Curso criado com base na matéria de Física IV da faculdade Poli USP. Aqui você encontra tudo o que precisa pra mandar bem, como provas passadas resolvidas, videoaulas, listas de exercícios e exercícios resolvidos!"
+  },
+  {
+    "name": "Álgebra Linear II",
+    "description": "Curso criado com base na matéria Álgebra Linear II da Poli USP. Aqui você encontra tudo o que precisa pra mandar bem, como videoaulas, listas de exercício, exercícios resolvidos e provas resolvidas!"
+  },
+  {
+    "name": "Eletricidade Geral",
+    "description": "Curso completo de Eletricidade Geral. Aqui você encontra tudo o que precisa pra mandar bem, como vídeo aulas, listas de exercício, exercícios resolvidos e provas resolvidas!"
+  },
+  {
+    "name": "Cálculo II",
+    "description": "Curso de Cálculo II especialmente para os alunos da Poli USP. Vídeos, provas passadas resolvidas e muitos exercícios pra você mandar super bem!"
+  },
+  {
+    "name": "Programação em Python",
+    "description": "Curso completo de programação em Python"
+  },
+  {
+    "name": "Estatística",
+    "description": "Curso de estatística com tudo que você precisa pra mandar super bem nessa matéria da Poli. Provas passadas resolvidas, simulados, teoria e exercícios resolvidos!"
+  },
+  {
+    "name": "Cálculo III",
+    "description": "Vídeos criados com base na matéria de Cálculo III da Escola Politécnica da USP"
+  },
+  {
+    "name": "Física III",
+    "description": "Vídeos eletrizantes criados com base na matéria de Física 3 da Escola Politécnica da USP"
+  },
+  {
+    "name": "Física I",
+    "description": "Vídeos criados com base na matéria de Física I da Escola Politécnica da USP. "
+  },
+  {
+    "name": "Cálculo Numérico",
+    "description": "Vídeos criados com base na matéria de Cálculo Numérico da Escola Politécnica da USP"
+  },
+  {
+    "name": "Álgebra Linear I",
+    "description": "Vídeos criados com base na matéria de Álgebra Linear I da Escola Politécnica da USP "
+  }
+]
